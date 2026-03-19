@@ -6,13 +6,7 @@
 Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sunilsingh Bhadoria
-### Microsoft SharePoint | Office 365 | Azure Consultant & IT Analyst
 
-Experienced IT professional specializing in enterprise-scale cloud solutions, workflow automation, and infrastructure analysis. With a background at firms like TCS, I focus on bridging the gap between complex business requirements and technical implementation.
-
- 🔭 **Current Focus:** Modern SharePoint Framework (SPFx), Power Platform, and Azure Cloud Integration.
- ⚡ **Expertise:** Office 365 Governance, Migrations, and IT System Analysis.
- 📫 **Connect:** [Link to his LinkedIn]
 
 ### 🛠️ Tech Stack & Tools
 - **Cloud:** Microsoft Azure, Office 365, SharePoint Online
